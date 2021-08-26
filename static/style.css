@@ -1,0 +1,12 @@
+h2 {padding: 50px 0px 10px 0px;}
+h1 {padding: 50px 0px 0px 0px;}
+nav {padding: 20px;}
+input {margin: 0px 5px 0px 0px;}
+body {text-align: center;}
+
+#background {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
